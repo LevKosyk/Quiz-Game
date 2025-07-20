@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="forgot_password"><u>I forgot my password</u></string>
+    <string name="account">Don’t have an account? <font color="#5b39c6"><b><u><i>Sign up</i></u></b></font></string>
+    <string name="cd_logo">Логотип Quiz Game</string>
+    <string name="default_web_client_id">xxxxxxxxxxxx-abc123.apps.googleusercontent.com</string>
+</resources>
