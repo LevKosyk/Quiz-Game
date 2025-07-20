@@ -53,7 +53,7 @@ class LoginActivity : AppCompatActivity() {
             } else {
                 Toast.makeText(this, "Please fill in all fields.", Toast.LENGTH_SHORT).show()
             }
-        }
+        } 
 
         binding.buttonGogleSignIn.setOnClickListener {
             signInGoogle()
